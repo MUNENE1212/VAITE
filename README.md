@@ -1,2 +1,3 @@
-# VAITE
-FIRST BUSINESS PROJECT 
+# Baitech
+Website for my brand
+
